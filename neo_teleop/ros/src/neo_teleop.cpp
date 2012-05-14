@@ -67,7 +67,7 @@ TeleopNeo::TeleopNeo():
   nh_.param("scale_angular_z", a_scale_z, a_scale_z);
 
 
-  ROS_INFO("started joystick drive with ");
+  ROS_INFO("started joystick drive ");
 
   vel_pub_ = nh_.advertise<geometry_msgs::Twist>("/cmd_vel", 1);
 

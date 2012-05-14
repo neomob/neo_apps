@@ -14,7 +14,7 @@
 
 		<!--tele operator-->
 		<include file="$(find neo_teleop)/ros/launch/teleop.launch">
-			<arg name="topicCmdVel" value="/base_controller/command"/> <!--TODO: relativ topic names-->
+			<!--arg name="topicCmdVel" value="/base_controller/command"/--> <!--TODO: relativ topic names-->
 		</include>
 	</group>
 </launch>
