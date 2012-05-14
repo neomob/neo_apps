@@ -1,0 +1,18 @@
+<package>
+  <description brief="neo_testcases">
+
+     neo_testcases
+
+  </description>
+  <author>neobotix</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/neo_testcases</url>
+  <depend package="cob_relayboard"/>
+  <depend package="move_base_msgs"/>
+  <depend package="pr2_msgs"/>
+  <depend package="roscpp"/>
+
+</package>
+
+

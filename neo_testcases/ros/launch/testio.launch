@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+
+	<node pkg="neo_testcases" type="set_relay_digout_node" name="set_relay_board_digout" respawn="false" output="screen">
+	</node>
+</launch>

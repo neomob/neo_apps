@@ -1,0 +1,19 @@
+/**
+\mainpage
+\htmlinclude manifest.html
+
+\b neo_testcases is a package for testing several functions of neobotix platforms. 
+
+
+<!-- 
+set_relay_digout - a test of the relay board digital inputs. Sends a message to cob_relayboard node for setting the inputs/outputs.
+-->
+
+
+\section codeapi Code API
+
+<!--
+-->
+
+
+*/
